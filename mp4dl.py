@@ -74,13 +74,3 @@ def main():
        
 main ()
 
-
-#todo
-#bestvideo+bestaudio/
-#-o video/%(title)s.%(ext)s'.format(url))✓
-#--retries infinite 
-# -f (bv*+ba/b)[vcodec!=?h265] "{}" ✓
-# --embed-thumbnail ✓?(i mean it already embeds?)
-# --postprocessor-args "-id3v2_version 3" ✓
-#videos_full_path.format(url),✓
-#add mp3(needs ffmpeg.exe rip )
